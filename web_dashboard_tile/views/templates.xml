@@ -18,7 +18,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ****************************************************************************-->
 
-<openerp>
+<odoo>
     <data>
         <template id="assets_backend" name="web_dashboard_tile assets" inherit_id="web.assets_backend">
             <xpath expr="." position="inside">
@@ -30,4 +30,4 @@
             </xpath>
         </template>
     </data>
-</openerp>
+</odoo>

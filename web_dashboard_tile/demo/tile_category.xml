@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+        <record id="modules" model="tile.category">
+            <field name="name">Modules</field>
+            <field name="sequence">0</field>
+        </record>
+
+        <record id="finance" model="tile.category">
+            <field name="name">Finance</field>
+            <field name="sequence">1</field>
+        </record>
+
+    </data>
+</odoo>
